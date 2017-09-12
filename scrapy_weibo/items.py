@@ -21,7 +21,7 @@ class Post(scrapy.Item):
 
 class User(scrapy.Item):
     nick_name = scrapy.Field()
-    content = scrapy.Field()
-    thumb_count = scrapy.Field()
-    repost_count = scrapy.Field()
-    comment_count = scrapy.Field()
+   
+    weibo_count = scrapy.Field()
+    focus_count = scrapy.Field()
+    fans_count = scrapy.Field()

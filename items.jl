@@ -1,147 +1,147 @@
 {
-    "content": ":[天极网手机频道]今年1月雷军曾断言，“全面屏手机手机是未来10年的方向，今年会有全面屏手机大战”。随着LG G6、三星Galaxy S8/note8、夏普S2、vivo X20等 http://t.cn/Rp4wrhA ​", 
+    "content": ":下周将是手机圈最重要的一周，年度三款顶级机皇：小米MIX2，iPhone8，国行三星Note8将同时发布。大家最期待哪款[摊手] ​", 
+    "comment_count": "评论[1079]", 
+    "thumb_count": "赞[2596]", 
+    "user": "https://weibo.cn/webthinker123", 
+    "repost_count": "转发[303]"
+}
+{
+    "content": "【转评送出30台小米MIX 2】小米发布三款诚意之作①#小米MIX2#全面屏手机，高端商务旗舰:18：9全面屏+骁龙835+标配6GB内存，3299元起，更有惊艳Unibody全陶瓷尊享版 ②#小米Note3#大屏拍照旗舰：变焦双摄+1600万前置AI美颜+人脸解锁、2499元起 ③#小米笔记本Pro#更强悍的专业笔记本，5599元起。今晚8点 ​ 全文", 
+    "comment_count": "原文评论[2578]评论[0]", 
+    "thumb_count": "赞[0]", 
+    "user": "https://weibo.cn/u/3732991342", 
+    "repost_count": "转发[0]"
+}
+{
+    "content": "对了，雷总没说MIX2是哪一家的？[doge] ​", 
+    "comment_count": "原文评论[99]评论[0]", 
+    "thumb_count": "赞[0]", 
+    "user": "https://weibo.cn/hansonhx", 
+    "repost_count": "转发[0]"
+}
+{
+    "content": "说一下Note8发布会、开售问题吧：首先，为什么中国区要单独再开一次发布会？因为中国三星的销售渠道太复杂，发布会主要是为经销商、渠道商、运营商等机构提货而开的，让粉丝们有亲临现场的机会是附带产物（并非官方观点），这一点和中国其他厂商的线上为主，线下店铺自己提货（主要因为利润高不愁卖） ​ 全文", 
+    "comment_count": "原文评论[74]评论[3]", 
+    "thumb_count": "赞[4]", 
+    "user": "https://weibo.cn/u/1638739665", 
+    "repost_count": "转发[0]"
+}
+{
+    "content": "小米MIX 2现场实拍[并不简单] ​", 
+    "comment_count": "原文评论[17]评论[0]", 
+    "thumb_count": "赞[0]", 
+    "user": "https://weibo.cn/u/2940717933", 
+    "repost_count": "转发[0]"
+}
+{
+    "content": ":没有曲面屏 变小了 边框变厚了还多个火疖子摄像头，真失望一句话总结就是向三星学习呗。。看来今年是note8赢了 ​", 
     "comment_count": "评论[0]", 
     "thumb_count": "赞[0]", 
-    "user": "https://weibo.cn/u/1283430217", 
+    "user": "https://weibo.cn/JayouL", 
     "repost_count": "转发[0]"
 }
 {
-    "content": ":我发表了新文章：“文在寅18日将访美并出席联合国大会”，“Note8预售火爆 首日销量超前款总量”，“反萨制裁致韩在华零售商停业撤资”，“调查：六成韩民众赞成拥核自保” 文在寅18日将访美并出席联合国大会 ​", 
-    "comment_count": "评论[1]", 
-    "thumb_count": "赞[1]", 
-    "user": "https://weibo.cn/yonhapcn", 
-    "repost_count": "转发[0]"
-}
-{
-    "content": ":摸了把note8工程机～有点长～[允悲] ​", 
+    "content": ":三星Note8还没上市就被雷军刚发布的小米MIX2吊打?(同步自@新浪看点)三星Note8还没上市就被雷军刚发布的小米MIX2吊打? ​", 
     "comment_count": "评论[0]", 
     "thumb_count": "赞[0]", 
-    "user": "https://weibo.cn/duketan", 
+    "user": "https://weibo.cn/xiaojinyou", 
     "repost_count": "转发[0]"
 }
 {
-    "content": ":想换手机，纠结s8+还是等note8,还是华为 ​", 
-    "comment_count": "评论[2]", 
-    "thumb_count": "赞[0]", 
-    "user": "https://weibo.cn/u/2696646565", 
-    "repost_count": "转发[0]"
-}
-{
-    "content": ":#俱爱搞机#你知道吗，#三星GalaxyNote8#有哪些让对手望尘莫及的亮点？①6.3英寸的屏幕、195g的重量，三星Note8的手感在大屏幕手机中屈指可数；②双1200万像素摄像头，更兼广角+长焦、大像素传感器、光学防抖等尖端功能；③屏幕亮度最高可以达到1200nits，前所未有；④S Pen带来更多更实用的功能体验； ​ 全文", 
-    "comment_count": "评论[0]", 
-    "thumb_count": "赞[3]", 
-    "user": "https://weibo.cn/CMCCZD", 
-    "repost_count": "转发[0]"
-}
-{
-    "content": ":#三星note8#除了全面屏,三星 note8还有S Pen手写笔,来欣赏一番，以后会出现很多灵魂画手么[笑而不语][笑而不语] NILLKIN耐尔金官方微博的微博视频 ​", 
-    "comment_count": "评论[3]", 
-    "thumb_count": "赞[7]", 
-    "user": "https://weibo.cn/nillkin", 
-    "repost_count": "转发[2]"
-}
-{
-    "content": ":三星Galaxy Note8首发评测, 安卓最强机皇, 不只是一支笔的差距! （分享自 @优酷） 三星Galaxy Note8首发评测, 安卓最强机皇, 不只是一支笔的差距! ​", 
-    "comment_count": "评论[0]", 
-    "thumb_count": "赞[3]", 
-    "user": "https://weibo.cn/743425234", 
-    "repost_count": "转发[0]"
-}
-{
-    "content": ":每年的九月中旬，都是三星和苹果的旗舰产品互怼的大好日子，恰逢iPhone的十周年，在Note7后极需一款产品重新树立品牌形象的三星，会拿出什么产品和苹果强强对话呢？马上开始Galaxy Note8的视频爱搞机的秒拍视频 ​", 
-    "comment_count": "评论[4]", 
-    "thumb_count": "赞[14]", 
-    "user": "https://weibo.cn/igao7", 
+    "content": ":史上最犹豫换机季 小米mix2 三星note8 iphoneX 三机联发[二哈][二哈][二哈] ​", 
+    "comment_count": "评论[20]", 
+    "thumb_count": "赞[27]", 
+    "user": "https://weibo.cn/pigxxb", 
     "repost_count": "转发[1]"
 }
 {
-    "content": ":三星Note8外形比S8方正了好多啊[笑而不语]全视曲面屏的设计确实闪眼～不过这后面的设计真的GG了[允悲]还不如S8 ​​​", 
-    "comment_count": "评论[5]", 
-    "thumb_count": "赞[11]", 
-    "user": "https://weibo.cn/jlike130480547", 
-    "repost_count": "转发[2]"
-}
-{
-    "content": ":三星Note8刀刮测试[哆啦A梦吃惊]强迫症看了感觉怎么样？讲真，我已经在期待iPhone 8的虐机视频啦[阴险] 爱搞机的小nv孩的微博视频 ​", 
-    "comment_count": "评论[20]", 
-    "thumb_count": "赞[25]", 
-    "user": "https://weibo.cn/gaojigirl", 
-    "repost_count": "转发[4]"
-}
-{
-    "content": ":讲真，Note8这屏幕视觉效果依然无敌。。。 ​", 
-    "comment_count": "评论[571]", 
-    "thumb_count": "赞[1051]", 
-    "user": "https://weibo.cn/u/5673255066", 
-    "repost_count": "转发[235]"
-}
-{
-    "content": ":#刹那技术汇总# 很多人关心note8入手时间价格走势，做简要回答[微笑][微笑][微笑][微笑]1  因为今年国行和香港上市较晚，所以第一波上天的价格是赶不上，但也是因为上市较晚所以十一前后，基本市场价格第一波会维持香港官网原价上下浮动。十一过节，是大家消费的高峰，注意节制。2 十一国庆过后， ​ 全文", 
-    "comment_count": "评论[15]", 
-    "thumb_count": "赞[6]", 
-    "user": "https://weibo.cn/u/5143897135", 
-    "repost_count": "转发[0]"
-}
-{
-    "content": ":【三星Note8韩国首日预订量接近40万部：远超Note7同期】据ZDNet报道，三星电子周五表示，Galaxy Note8在韩国首日的预订量达到了39.5万部，远超Galaxy Note7同期的预定量。……详情点击：三星Note8韩国首日预订量接近40万部：远超Note7同期 ​", 
-    "comment_count": "评论[9]", 
-    "thumb_count": "赞[8]", 
-    "user": "https://weibo.cn/ithome", 
-    "repost_count": "转发[3]"
-}
-{
-    "content": ":Note8 ​", 
-    "comment_count": "评论[1]", 
-    "thumb_count": "赞[1]", 
-    "user": "https://weibo.cn/zhengweia", 
-    "repost_count": "转发[0]"
-}
-{
-    "content": ":【搞星机】第3期 欣赏三星盖乐世 Note8在水中的美 - 三星盖乐世社区 http://t.cn/Rp4RQAV ​", 
+    "content": ":#Note8# #Galaxy# #三星#我们去三星总部上手了Galaxy Note8｜锋潮评测室http://t.cn/RpXLa0F（上#秒拍#看我的最新短视频，下载秒拍->http://t.cn/RCxcYwb） ​", 
     "comment_count": "评论[0]", 
     "thumb_count": "赞[0]", 
-    "user": "https://weibo.cn/u/1734724822", 
+    "user": "https://weibo.cn/u/2498600304", 
+    "repost_count": "转发[1]"
+}
+{
+    "content": "骁龙835、全面屏、四轴防抖=3299买鸡屎的PRO7啊[微笑]赶紧降价清库存吧，脸都没得了 ​", 
+    "comment_count": "原文评论[81]评论[1]", 
+    "thumb_count": "赞[1]", 
+    "user": "https://weibo.cn/u/2031809551", 
     "repost_count": "转发[0]"
 }
 {
-    "content": ":#e资讯#9月11日下午2点是小米MIX 2发布会，9月12日13日凌晨1点是iPhone 8发布会。国行Note 8则定在了9月13日下午18:00。9月11日到13日这三天，将迎来今年下半年最重磅的三款智能手机。少年，你是要买iPhone8，NOte8，还是小米MX2呢？（via凤凰湖北） ​", 
+    "content": ":好了，MIX 2排毒了，坐等明晚信仰8的发布会，然后和萨德note8二选一[二哈] ​", 
+    "comment_count": "评论[3]", 
+    "thumb_count": "赞[1]", 
+    "user": "https://weibo.cn/baogeepool", 
+    "repost_count": "转发[0]"
+}
+{
+    "content": ":#走进韩国#9月7日，三星电子全新旗舰手机#Galaxy Note8#开启韩国区预售！ ​", 
     "comment_count": "评论[0]", 
     "thumb_count": "赞[1]", 
-    "user": "https://weibo.cn/whcmcc", 
+    "user": "https://weibo.cn/275445508", 
+    "repost_count": "转发[1]"
+}
+{
+    "content": ":港真，有钱还是note8 预算减半还是mix2把 哦，不对，抢得到再说吧 ​", 
+    "comment_count": "评论[0]", 
+    "thumb_count": "赞[0]", 
+    "user": "https://weibo.cn/u/2624030131", 
     "repost_count": "转发[0]"
 }
 {
     "content": ":三星Note8全球首发评测：S8的味道和Note7的精华 三星Note8评测:和时间的赛跑 ​", 
     "comment_count": "评论[0]", 
-    "thumb_count": "赞[0]", 
+    "thumb_count": "赞[1]", 
     "user": "https://weibo.cn/u/6187800067", 
-    "repost_count": "转发[0]"
-}
-{
-    "content": ":【 三星Note8在韩首日预订量接近40万部，远超Note7】三星电子表示，Galaxy Note8在韩国首日的预订量达到39.5万部，远超Galaxy Note7。去年，Galaxy Note7从8月6日开始在韩国接受预订，截止到8月18日的13天预订量才刚刚超过38万部。小伙伴们，怎么看~ [并不简单] ​", 
-    "comment_count": "评论[11]", 
-    "thumb_count": "赞[3]", 
-    "user": "https://weibo.cn/ifengtechdigi", 
     "repost_count": "转发[1]"
 }
 {
-    "content": ":Galaxy Note8深海蓝上手图，是不是美翻天了？ 吴忠 ​", 
-    "comment_count": "评论[0]", 
-    "thumb_count": "赞[0]", 
-    "user": "https://weibo.cn/u/2554982661", 
-    "repost_count": "转发[0]"
-}
-{
-    "content": ":换8895和[比基尼]套用几天，过两天搞个韩版Note8充充信仰，Note8有比基尼不[笑而不语] ​", 
-    "comment_count": "评论[30]", 
-    "thumb_count": "赞[25]", 
-    "user": "https://weibo.cn/271177388", 
+    "content": "冷静下来看真机好像确实也很一般……我怎么觉得黑边好像还宽了……[允悲] ​", 
+    "comment_count": "原文评论[68]评论[0]", 
+    "thumb_count": "赞[2]", 
+    "user": "https://weibo.cn/82311723", 
     "repost_count": "转发[2]"
 }
 {
-    "content": "【震惊：网络惊现华为Mate 10真机照 大家来辨一下真伪[doge]】近期华为新一代高端商务旗舰Mate 10的消息从未间断过，那么华为Mate 10的真机到底长什么样呢？日前，外媒率先给出了一张真机上手图。从图片来看，该机左右边框极窄，额头和下巴做了收紧，屏占比极高，视觉效果相当不错[笑cry]。    不过， ​ 全文", 
-    "comment_count": "原文评论[52]评论[0]", 
+    "content": "不过有句讲句，和mix2相比，三星note8简直美哭了可惜指纹的位置实在是太断子绝孙了 ​", 
+    "comment_count": "原文评论[70]评论[0]", 
+    "thumb_count": "赞[0]", 
+    "user": "https://weibo.cn/u/1779227211", 
+    "repost_count": "转发[0]"
+}
+{
+    "content": "相当惊艳，漂亮得没话说 ​", 
+    "comment_count": "原文评论[1]评论[3]", 
+    "thumb_count": "赞[0]", 
+    "user": "https://weibo.cn/u/2197634024", 
+    "repost_count": "转发[0]"
+}
+{
+    "content": "小米 MIX 2 变得更容易被大众接受了 小米 MIX 2 变得更容易被大众接受了 ​", 
+    "comment_count": "原文评论[10]评论[0]", 
     "thumb_count": "赞[1]", 
-    "user": "https://weibo.cn/u/2543579625", 
+    "user": "https://weibo.cn/chakyo", 
+    "repost_count": "转发[0]"
+}
+{
+    "content": "【#小米MIX2#全面屏手机，全陶瓷高端商务旗舰】① 18：9定制全面屏，正面几乎全是屏幕 ② 5.99”大屏，接近5.5”屏的机身握感 ③ 骁龙835性能强悍 ④ 4轴光学防抖相机 ⑤ 6模43频全球频段。标准版标配6GB内存，3299元起；小米MIX 2 尊享版，Unibody全陶瓷，8GB+128GB，4699元。转评送出新品一台。 ​", 
+    "comment_count": "原文评论[6336]评论[0]", 
+    "thumb_count": "赞[0]", 
+    "user": "https://weibo.cn/u/1752700411", 
+    "repost_count": "转发[0]"
+}
+{
+    "content": ":老实说，你们觉得小米MIX2和三星Note8谁更漂亮？ ​", 
+    "comment_count": "评论[24]", 
+    "thumb_count": "赞[9]", 
+    "user": "https://weibo.cn/279911917", 
+    "repost_count": "转发[0]"
+}
+{
+    "content": ":等明年看mix2跟note8哪个闲鱼更便宜吧[允悲] ​", 
+    "comment_count": "评论[0]", 
+    "thumb_count": "赞[0]", 
+    "user": "https://weibo.cn/u/5984315156", 
     "repost_count": "转发[0]"
 }

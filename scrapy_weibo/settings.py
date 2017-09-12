@@ -27,7 +27,7 @@ ROBOTSTXT_OBEY = False
 # Configure a delay for requests for the same website (default: 0)
 # See http://scrapy.readthedocs.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-#DOWNLOAD_DELAY = 3
+DOWNLOAD_DELAY = 4
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
@@ -42,10 +42,7 @@ TELNETCONSOLE_ENABLED = False
 DEFAULT_REQUEST_HEADERS = {
    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
    'Accept-Language': 'zh-CN,zh;q=0.8',
-   'Cookie':'_T_WM=95747f2f664e64dae2627fc8c211b3fb; ALF=1507097802; SCF=AuPKJ83zTTyTBfaL4Qs1eohFCLiuB5k9VdKiO4y6IH0YZSnOG2LL4BWTmx9tkzF3sOSjyHKdp3-C8dRP06ZW21k.;\
-    SUB=_2A250qJ-aDeRhGeBO7VAQ-SrLzDmIHXVUUiHSrDV6PUJbktBeLRDekW2CUAcGp2ZR5IC8tpJ32Ski6b8voQ..; \
-    SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5uyPK4nOb2dXP3Ehlq_Ip65JpX5o2p5NHD95QcehqEeK.XS0MfWs4Dqc_zi--fi-z4i-zEi--Xi-iWiKnci--\
-    ciKL2i-8si--Xi-zRi-82i--4iKnfiK.Ei--fi-2Xi-2Ni--Ni-i8iKy8i--fi-2fi-z0; SUHB=0P1MbTzv2WzAo_; SSOLoginState=1504505803',
+   'Cookie':'ALF=1507286052; SCF=AuPKJ83zTTyTBfaL4Qs1eohFCLiuB5k9VdKiO4y6IH0YOGDVHzA89m65fLIOIZprPegRM4WCBvc5nlRCcmj6Rl4.; SUB=_2A250q790DeRhGeBO7VAQ-SrLzDmIHXVUV8E8rDV6PUJbktBeLRnikW2au912mtJG2wkfpvaHEWNbp_kd_w..; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5uyPK4nOb2dXP3Ehlq_Ip65JpX5o2p5NHD95QcehqEeK.XS0MfWs4Dqc_zi--fi-z4i-zEi--Xi-iWiKnci--ciKL2i-8si--Xi-zRi-82i--4iKnfiK.Ei--fi-2Xi-2Ni--Ni-i8iKy8i--fi-2fi-z0; SUHB=0vJI8mvgHPvdVz; SSOLoginState=1504694052; _T_WM=5e3852132d5295624d7bb70711b7441e',
     'Host':'weibo.cn',
     'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
     'Upgrade-Insecure-Requests':'1',
