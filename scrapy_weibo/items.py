@@ -13,15 +13,35 @@ class ScrapyWeiboItem(scrapy.Item):
     # name = scrapy.Field()
     pass
 class Post(scrapy.Item):
-    user = scrapy.Field()
+    id = scrapy.Field()
+    user_id = scrapy.Field()
     content = scrapy.Field()
     thumb_count = scrapy.Field()
     repost_count = scrapy.Field()
     comment_count = scrapy.Field()
 
 class User(scrapy.Item):
+    user_id = scrapy.Field()
     nick_name = scrapy.Field()
    
     weibo_count = scrapy.Field()
     focus_count = scrapy.Field()
     fans_count = scrapy.Field()
+    gender = scrapy.Field()
+    area = scrapy.Field()
+    labels = scrapy.Field()
+    birthday = scrapy.Field()
+    description = scrapy.Field()
+    coolpeople = scrapy.Field()
+    auth = scrapy.Field()
+
+class Forward(scrapy.Item):
+    post_id = scrapy.Field()
+    content = scrapy.Field()
+    created_time =scrapy.Field()
+    platform = scrapy.Field()
+class Comment(scrapy.Item):
+    post_id = scrapy.Field()
+    content = scrapy.Field()
+    created_time =scrapy.Field()
+    platform = scrapy.Field()
