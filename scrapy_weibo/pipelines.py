@@ -16,6 +16,7 @@ class JsonWriterPipeline(object):
         self.file = codecs.open('items.jl', 'w',encoding='utf8')
         self.file_user = codecs.open('user.jl', 'w',encoding='utf8')
         self.file_forward = codecs.open('forward.jl','w',encoding='utf8')
+        self.file_comment = codecs.open('comment.jl','w',encoding='utf8')
     def process_item(self, item, spider):
         
         if 'Post' in str(item.__class__):
@@ -25,6 +26,9 @@ class JsonWriterPipeline(object):
             line = json.dumps(dict(item),indent=4, ensure_ascii=False) + "\n"
             self.file_user.write(line)
         if 'Comment' in str(item.__class__):
+            line = json.dumps(dict(item),indent=4, ensure_ascii=False) + "\n"
+            self.file_comment.write(line)
+        if 'Forward' in str(item.__class__):
             line = json.dumps(dict(item),indent=4, ensure_ascii=False) + "\n"
             self.file_forward.write(line)
         return item

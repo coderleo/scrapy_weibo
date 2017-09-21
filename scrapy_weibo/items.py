@@ -40,8 +40,11 @@ class Forward(scrapy.Item):
     content = scrapy.Field()
     created_time =scrapy.Field()
     platform = scrapy.Field()
+    user_id = scrapy.Field()
+    parent_id = scrapy.Field()
 class Comment(scrapy.Item):
     post_id = scrapy.Field()
     content = scrapy.Field()
     created_time =scrapy.Field()
     platform = scrapy.Field()
+    user_id = scrapy.Field()
