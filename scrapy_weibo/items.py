@@ -19,7 +19,9 @@ class Post(scrapy.Item):
     thumb_count = scrapy.Field()
     repost_count = scrapy.Field()
     comment_count = scrapy.Field()
-
+    keyword_id = scrapy.Field()
+    platform = scrapy.Field()
+    created_time = scrapy.Field()
 class User(scrapy.Item):
     user_id = scrapy.Field()
     nick_name = scrapy.Field()
