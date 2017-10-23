@@ -19,6 +19,7 @@ class JsonWriterPipeline(object):
         self.file = codecs.open('items.jl', 'w',encoding='utf8')
         self.file_user = codecs.open('user.jl', 'w',encoding='utf8')
         self.file_forward = codecs.open('forward.jl','w',encoding='utf8')
+<<<<<<< HEAD
         self.file_comment = codecs.open('comment.jl','w',encoding='utf8')
         self.sql_helper = SqlHelper(MySQLConfig)
         self.each_count = 50
@@ -27,6 +28,8 @@ class JsonWriterPipeline(object):
 
         self.user_count = 0
         self.users = []
+=======
+>>>>>>> aa77b0edc1eb9cebce262ca728b7630058f1f7a1
     def process_item(self, item, spider):
         
         if 'Post' in str(item.__class__):
@@ -62,9 +65,6 @@ class JsonWriterPipeline(object):
                 item['auth'],item['birthday'],item['focus_count'],item['weibo_count'],item['fans_count'])])
                 self.user_count = self.user_count + 1
         if 'Comment' in str(item.__class__):
-            line = json.dumps(dict(item),indent=4, ensure_ascii=False) + "\n"
-            self.file_comment.write(line)
-        if 'Forward' in str(item.__class__):
             line = json.dumps(dict(item),indent=4, ensure_ascii=False) + "\n"
             self.file_forward.write(line)
         return item
